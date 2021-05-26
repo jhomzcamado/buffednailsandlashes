@@ -154,7 +154,6 @@ form p{
 }
 @media screen and (max-width: 590px){
 	.container{
-		color: yellow;
 		margin-left: 10px;
 		margin-right: 10px;
 	}
