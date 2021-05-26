@@ -231,6 +231,9 @@
   font-size: 25px;
   font-weight: 600; 
 }
+.Services .services-content p{
+  color: black;
+}
 
 /*--Contact--*/
 .contact{
