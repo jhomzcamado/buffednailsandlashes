@@ -153,6 +153,14 @@ form p{
   		left: 100px;
 }
 @media screen and (max-width: 590px){
+	.container{
+		color: yellow;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.container-time{
+		padding-top: 10px;
+	}
 	.heading-days{
 		font-size: 20px;
 	}
